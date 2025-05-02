@@ -1,3 +1,5 @@
+**NOTE**: _This repository is no longer supported or updated by Awake Security / Arista Networks. If you wish to continue to develop this code yourself, we recommend you fork it._
+
 <p align="center">
   <img alt="Lerna" src="https://cloud.githubusercontent.com/assets/952783/15271604/6da94f96-1a06-11e6-8b04-dc3171f79a90.png" width="480">
 </p>
